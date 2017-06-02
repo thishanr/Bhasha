@@ -502,6 +502,15 @@ h6,
 #features1-e .mbr-cards-col:nth-child(odd) .card-title {
   color: #000000;
 }
+#form2-q .mbr-section-title {
+  color: #fff;
+}
+#form2-q .mbr-section-subtitle {
+  color: #000000;
+}
+#form2-q .mbr-section-title SPAN {
+  font-size: 30px;
+}
 #features4-j .card-subtitle {
   color: #2969b0;
   font-size: 48px;
@@ -512,15 +521,6 @@ h6,
 }
 #features4-j P {
   color: #ffffff;
-}
-#form2-q .mbr-section-title {
-  color: #fff;
-}
-#form2-q .mbr-section-subtitle {
-  color: #000000;
-}
-#form2-q .mbr-section-title SPAN {
-  font-size: 30px;
 }
 #contacts1-z P {
   color: #000000;
